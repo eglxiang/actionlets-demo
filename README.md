@@ -27,4 +27,3 @@ Planned research includes:
 ## Status
 
 Early research prototype. The current demo is not yet a learned or adaptive robot policy.
-EOF
