@@ -1,4 +1,3 @@
-cat > /srv/local2/xxiang3/robot-sim/README.md <<'EOF'
 # Reusable Actionlets for Open-World Robot Manipulation
 
 An experimental framework for studying reusable robot manipulation skills and their adaptation to changing environments.
